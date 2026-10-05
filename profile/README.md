@@ -7,6 +7,7 @@
 
   [![Website](https://img.shields.io/badge/Website-the--makers.space-orange?style=flat-square)](https://www.the-makers.space/)
   [![Instagram](https://img.shields.io/badge/Instagram-@makers__hanau-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/makers_hanau/)
+  [![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ThJ8fVshNa)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-themakersspace-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/themakersspace/)
   [![X](https://img.shields.io/badge/X-MAKERS__Hanau-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MAKERS_Hanau)
   [![Facebook](https://img.shields.io/badge/Facebook-Makers_e.V.-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/people/Makers-eV/61586127254381/)
